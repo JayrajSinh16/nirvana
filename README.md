@@ -1,16 +1,25 @@
-# nirvana
+<h1 align="center">Nirvana</h1>
+<p align="center"><i>A Flutter Project Powered by the ChatGPT API.</i></p>
 
-A new Flutter project.
+<br>
+<p align="center"><i>Loved the project? Give a ⭐️ </i></p>
+<br>
+This innovative Flutter project integrates the powerful ChatGPT API, delivering an all-encompassing solution for users' daily challenges. Through text generation, it offers detailed textual responses. With image generation, it visualizes concepts dynamically. The addition of voice assistance enhances user experience, allowing seamless interaction via speech. This multifaceted approach ensures comprehensive support, making problem-solving effortless for users.
+If you like this Repo, Please click the :star:
 
-## Getting Started
+# Brief Introduction 
 
-This project is a starting point for a Flutter application.
+# For the Detailed Description of the Project
+Please Refer to the presentation and video attached with this repository.
 
-A few resources to get you started if this is your first Flutter project:
+# Contribute
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Contributions are always welcome! Please create a PR to add Github Profile.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## :pencil: License
+
+This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
+
+## :man_astronaut: Show your support
+
+Give a ⭐️ if this project helped you!
