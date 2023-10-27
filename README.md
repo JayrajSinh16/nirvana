@@ -9,6 +9,9 @@ If you like this Repo, Please click the :star:
 
 # Brief Introduction 
 
+[nirvana_image.pdf](https://github.com/JayrajSinh16/nirvana/files/13193557/nirvana_image.pdf)
+
+
 # For the Detailed Description of the Project
 Please Refer to the presentation and video attached with this repository.
 
