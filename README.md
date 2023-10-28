@@ -8,8 +8,8 @@ This innovative Flutter project integrates the powerful ChatGPT API, delivering 
 If you like this Repo, Please click the :star:
 
 # Brief Introduction 
-
-[nirvana_image.pdf](https://github.com/JayrajSinh16/nirvana/files/13193557/nirvana_image.pdf)
+please refer to following pdf for the UI design of Nirvana <br>
+[nirvana_app_ui.pdf](https://github.com/JayrajSinh16/nirvana/files/13193557/nirvana_image.pdf)
 
 
 # For the Detailed Description of the Project
